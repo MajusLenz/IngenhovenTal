@@ -1,0 +1,51 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Maps/IngenhovenTal.umap",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Materials/M_Halsbandsittich.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Materials/MI_Halsbandsittich_1.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/MI_Halsbandsittich_1.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/M_Halsbandsittich.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/MI_Halsbandsittich_4.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/MI_Halsbandsittich_3.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/MI_Halsbandsittich_2.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/SK_Halsbandsittich.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/SK_Halsbandsittich_PhysicsAsset.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/SK_Halsbandsittich_Physics.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Blueprints/BP_Halsbandsittich.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_FluegelschlagSchwingenAufAb.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_FluegelschlagAufderStelle.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_FluegelschlagLinksRechts.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_FluegelschlagNeutral.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_FluegelschlagSalto.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_FluegelschlagSchwingen.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_FluegelschlagTurbulenzen.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_GleitenBeschleunigen.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_GleitenBeschleunigen2.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_GleitenMuede.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_GleitenNeutral.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_GleitenPirouette.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_GleitenRueckenlage.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_GleitenSchwingen.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_GleitenSeitenlage.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_GleitenZeigen.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenFluegelschlag.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenHuepfen.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenHuepfenLang.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenHuepfenSchauen.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenLaufen.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenLaufenMitFluegeln.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenNeutral.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenVorbeugen.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenZeigenLinks.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_SitzenZeigenRechts.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_TransitionZuFlug.uasset",
+				"G:/UE - Projects/IngenhovenTal/Content/HSD_IngenhovenTal/Assets/Halsbandsittich/Animations/RootAni_Halsbandsittich_TransitionZuLand.uasset"
+			]
+		}
+	]
+}

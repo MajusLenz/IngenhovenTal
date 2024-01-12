@@ -82,3 +82,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Saved/AutoScreenshot.png
+Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Saved/Logs/HSD_IngenhovenTal.log
+Saved/SourceControl/UncontrolledChangelists.json
+Intermediate/CachedAssetRegistry.bin
